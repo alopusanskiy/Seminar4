@@ -21,12 +21,6 @@ void SumNum(int num)
     System.Console.WriteLine(result);
 }
 
-// //int number = ReadInt("Введите число: ");
-// int number = 123;
-// int result = 0;
-
-// result = SumNum(number);
-
 int number = ReadInt("Введите число: ");
 
 SumNum(number);
